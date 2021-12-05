@@ -38,6 +38,12 @@ Select option 6 to quit
 ---
 **NOTE**
 
+Press q during any video capture to end the capture and return to the options menu
+
+---
+---
+**NOTE**
+
 A user may already be in the database file with the same face. If so, remove them from db.csv and delete their dataset folder. Then run option 2
 
 ---
